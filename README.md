@@ -1,2 +1,3 @@
-# Project2
-Project 2
+Power Recruiter
+
+Power your way through the recruitment process!
