@@ -33,8 +33,8 @@ module.exports = function (app) {
     res.render("jobcandidates");
   });
 
-  //app.get("/jobcandidates", function(req, res) {
-  //res.render("jobcandidates");
-  //});
+  app.get("/jobcandidates", function(req, res) {
+  res.render("jobcandidates");
+  });
 
 };
