@@ -10,8 +10,8 @@ This project is deployed on Heroku:
 
 Recruiter Login page: <https://boiling-savannah-54530.herokuapp.com/login>
 
-Recruiter Login Information:
-Username: Recruiter
-Password: logmein
+- Recruiter Login Information:
+- Username: Recruiter
+- Password: logmein
 
 Candidate Portal to view and apply for jobs: <https://boiling-savannah-54530.herokuapp.com/>
